@@ -10,8 +10,8 @@ with size 12 should return : '101010101010'.
 
 The size will always be positive and will only use whole numbers.
 */
-//Solution is incomplete. Challenge was time restricted, with more time I'll use the iteration i and to 
-concactenate with the str use a modulo operation.
+/*Solution is incomplete. Challenge was time restricted, with more time I'll use the iteration i and to 
+concactenate with the str use a modulo operation.*/
 
 // take in an int as a size and return 1s and 0s alterning based on the size given and starting with 1
 //P: will be number(int, positive, varies)
